@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<endpoints version="2.0" xmlns="http://java.sun.com/xml/ns/jax-ws/ri/runtime">
+  <endpoint implementation="dll_WebService.DLL_Service" name="DLL_Service" url-pattern="/DLL_Service"/>
+</endpoints>
